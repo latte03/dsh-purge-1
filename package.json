@@ -57,11 +57,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/555bbbAAA/dsh-purge.git"
+    "url": "git+https://github.com/latte03/dsh-purge-1.git"
   },
-  "homepage": "https://github.com/555bbbAAA/dsh-purge#readme",
+  "homepage": "https://github.com/latte03/dsh-purge-1#readme",
   "bugs": {
-    "url": "https://github.com/555bbbAAA/dsh-purge/issues"
+    "url": "https://github.com/latte03/dsh-purge-1/issues"
   },
   "dsh": {
     "bundle": {
